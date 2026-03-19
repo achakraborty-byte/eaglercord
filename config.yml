@@ -46,5 +46,5 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: node5.aeroark.fun:25576
+    address: masterzmc.minefort.com
     restricted: false
